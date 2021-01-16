@@ -1,5 +1,5 @@
 #จงเขียนคำสั่งเพื่อแสดงความยาวของตัวอักษร "I am the best programmer"
-print(len(I am the best programmer))
+print(len("I am the best programmer"))
 #จงเขียนคำสั่งเพื่อแสดงอักษรแรกของข้อความ "I am the best programmer"
 string = "I am the best programmer"
 print(string[0])
